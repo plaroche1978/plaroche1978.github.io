@@ -1,5 +1,6 @@
-## Pascal's blog 
-###### The blog of an IT professional focusing on automation, cloud computing, virtualization.
+# Pascal's blog 
+#### The blog of an IT professional focusing on automation, cloud computing and virtualization.
+
 
 You can use the [editor on GitHub](https://github.com/plaroche1978/plaroche1978.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
